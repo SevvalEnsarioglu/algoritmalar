@@ -126,5 +126,5 @@ f(n) = o(g(n)) ise → **g(n) = ω(f(n)) dir**
 
 ---
 
-**Her algoritma tasarlarken amacımız, verilen problemin kısıtları altında en düşük karmaşıklıkla çözümü elde etmektir.**
+**Her algoritmayı tasarlarken amacımız verilen problemin kısıtları altında en düşük karmaşıklıkla çözümü elde etmektir.**
 
