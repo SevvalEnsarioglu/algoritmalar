@@ -128,16 +128,3 @@ f(n) = o(g(n)) ise → **g(n) = ω(f(n)) dir**
 
 **Her algoritma tasarlarken amacımız, verilen problemin kısıtları altında en düşük karmaşıklıkla çözümü elde etmektir.**
 
-
-
-
-
-
-
-
-
-
-
-Kaba Kuvvet, problemin çözümü için ilk akla gelen yöntemdir.
-Güçlü yönü; düşünmesi kolay, uygulanması kolay,bazı problemlere yeterli verimlilikte algoritma üretebilir.
-Zayıf yönü; çok az sayıdaki problem için verimli algoritma üretebilir.
